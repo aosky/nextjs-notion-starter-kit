@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '44954675d67447cfad110027a71ba873',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -44,8 +44,8 @@ module.exports = {
   // example:
   //
 pageUrlOverrides: {
-   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+   '/web': '252b6d49b4de4547b33c63b6dde2e776',
+   '/money': 'a637c6f05a244be2a8152191839a8445'
   },
   pageUrlOverrides: null
 }
